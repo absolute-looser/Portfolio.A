@@ -1,0 +1,45 @@
+a:hover{
+    color: gold;
+}
+a{
+    color: red;
+}
+.intro{
+    background-color: #9ad3bc;
+    position: relative;
+    padding-top: 200px;
+    text-align: center;
+    height: 100vh;
+}
+body{
+    margin:0px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+.akhilimg{
+    border-radius: 50%;
+    width: 200px;
+}.wd{
+    border-radius: 50%;
+    width: 200px;
+}.ds{
+    border-radius: 50%;
+    width: 200px;
+}
+#name{
+    font-family: 'Parisienne', cursive;
+
+
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+#upper{
+    position: absolute;
+    left: 300px;
+}
+#lower{
+    position:absolute;
+    right: 300px;
+}
